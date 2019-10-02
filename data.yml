@@ -1,0 +1,27 @@
+home:
+  quien_soy:
+    quien: Mi nombre es Juan José Elgueta Rodriguez, soy estudiante de Computer Science en la UFM. Me encanta la música, las películas y obviamente las computadoras. Esta pagina esta diseñada para que me conozcas un poco mas y conozcas mis habilidades como programador.
+  
+  basic_info:
+    nombre: Juan José Elgueta
+    edad: '20 años'
+    estado_civil: 'soltero'
+    direccion: Coondominio Luces Del Encinal, Casa Pinos 2
+    nacionalidad: Guatemalteca
+    about: Estudiante de Computer Science en la Universidad Francisco Marroquín. Orientado a la resolución de problemas y la innovación, con alta disposición para aprender. Al día con las tendencias en el mundo del desarrollo de software. Programador poligloto.
+
+educacion:
+  northlands:
+    name: Northlands School (Argentina)
+    period: 2015 - 2016
+    program: Programa IGCSE de Cambridge (International General Certificate of Secondary education) con “Distinction award”.
+
+  ameritec:
+    name: Colegio Ameritec
+    period: 2016 - 2017
+    program: Bachillerato en ciencias y letras con promedio de 87 puntos, Distinción del ministerio de educación por puntaje sobresaliente en vocabulario y matemáticas
+
+  ufm:
+    name: Universidad Francisco Marroquín
+    period: 2018 - presente
+    program: Estudiante de Computer Science, 2do año.

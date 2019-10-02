@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="container">
+    <div class="jumbotron jumbotron-fluid">
+        <div style="padding: 0% 10% 5%">
+            <h1 class="display-4"> Educación</h1>
+            <hr class="my-4">
+
+            <h6 class= "text-muted"> {{data.educacion.northlands.name}} </h6>
+            <p class="lead"> {{data.educacion.northlands.period}} </p>
+            <p class="lead"> {{data.educacion.northlands.program}} </p>
+
+            <h6 class= "text-muted">{{data.educacion.ameritec.name}}</h6>
+            <p class="lead"> {{data.educacion.ameritec.period}} </p>
+            <p class="lead"> {{data.educacion.ameritec.program}} </p>
+
+            <h6 class= "text-muted">{{data.educacion.ufm.name}}</h6>
+            <p class="lead"> {{data.educacion.ufm.period}}</p>
+            <p class="lead"> {{data.educacion.ufm.program}}</p>
+
+        </div>
+    </div>    
+
+</div>
+
+
+{% endblock %}
